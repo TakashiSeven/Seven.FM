@@ -52,7 +52,7 @@ Verás un código largo llamado Client ID. Cópialo y pégalo en la ventana de c
 
 Ahí mismo en Spotify, haz clic en "View client secret". Copia ese segundo código oculto y pégalo también en SEVEN.FM. (⚠️ Por la seguridad de tu cuenta, no compartas estos códigos con nadie).
 
-<img width="469" height="239" alt="image" src="https://github.com/user-attachments/assets/5e3f32d2-4b23-43fc-9c20-3714398c8cd7" />
+<img width="214" height="152" alt="image" src="https://github.com/user-attachments/assets/81bde792-1c89-401a-9144-fdf59494a252" />
 
 En SEVEN.FM, elige tu color favorito y dale a [ GUARDAR Y CONECTAR ].
 
