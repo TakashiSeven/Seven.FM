@@ -1,4 +1,5 @@
 ◈ SEVEN.FM ◈
+
 Soy seven y este es un reproductor retro-futurista para tu escritorio de Windows (Sigue en desarrollo asi que puede tener bugs).
 
 ¡Hola! Bienvenido a SEVEN.FM. Esta aplicación funciona como un reproductor visual y un visualizador de letras sincronizadas para tu cuenta de Spotify.
