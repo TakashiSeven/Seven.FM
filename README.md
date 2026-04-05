@@ -1,5 +1,7 @@
 ◈ SEVEN.FM ◈
 
+======== POR FAVOR LEER ========
+
 Soy Seven y este es un reproductor retro-futurista para tu escritorio de Windows (Sigue en desarrollo asi que puede tener bugs).
 
 ¡Hola! Bienvenido a SEVEN.FM. Esta aplicación funciona como un reproductor visual y un visualizador de letras sincronizadas para tu cuenta de Spotify.
@@ -13,6 +15,10 @@ Como este es un proyecto independiente, necesitas enlazarlo a tu cuenta generand
 Guía de Instalación
 PASO 1: Descarga la app
 En esta misma página, haz clic en el archivo que dice SevenFm.exe y descárgalo.
+
+⚠️ Nota para usuarios
+Al ser una aplicación Indie y de código abierto sin una firma digital de pago, es normal que Windows SmartScreen muestre una advertencia azul la primera vez que abras la app.
+Cómo abrirlo? Solo haz clic en "Más información" y luego en el botón "Ejecutar de todas formas". Tu computadora está 100% segura
 
 Abre el archivo. Te aparecerá una ventana de configuración pidiendo unas claves, déjala abierta.
 
