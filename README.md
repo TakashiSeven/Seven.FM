@@ -13,10 +13,10 @@ Para que la estética funcione, SEVEN.FM no piratea ni descarga canciones, se si
 Como este es un proyecto independiente, necesitas enlazarlo a tu cuenta generando unas claves gratuitas de desarrollador. Solo toma 2 minutos y se hace una sola vez. Sigue estos pasos:
 
 Guía de Instalación
-PASO 1: Descarga la app
+PASO 1: Descarga la app:
 En este enlace encontraras la aplicacion: https://github.com/TakashiSeven/Seven.FM/releases/download/v1.0/SevenFm.exe.
 
-⚠️ Nota para usuarios
+⚠️ Nota para usuarios:
 Al ser una aplicación Indie y de código abierto sin una firma digital de pago, es normal que Windows SmartScreen muestre una advertencia azul la primera vez que abras la app.
 Cómo abrirlo? Solo haz clic en "Más información" y luego en el botón "Ejecutar de todas formas". Tu computadora está 100% segura
 
