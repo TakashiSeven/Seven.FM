@@ -67,3 +67,5 @@ Se abrirá una ventana en tu navegador pidiendo permiso para conectar tu cuenta,
 ¡Listo! Abre tu Spotify normal, pon a reproducir tu canción favorita y SEVEN.FM comenzará a reproducir la canción.
 
 <img width="908" height="680" alt="image" src="https://github.com/user-attachments/assets/a5cf1a70-de28-4319-8c5e-bb89c13125fb" />
+
+Si quieres apoyarme puedes hacerlo en: https://ko-fi.com/takashi_seven
