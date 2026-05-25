@@ -14,7 +14,7 @@ Como este es un proyecto independiente, necesitas enlazarlo a tu cuenta generand
 
 Guía de Instalación
 PASO 1: Descarga la app:
-En este enlace encontraras la aplicacion: https://github.com/TakashiSeven/Seven.FM/releases/download/v1.0/SevenFm.exe.
+En este enlace encontraras la aplicacion: https://github.com/TakashiSeven/Seven.FM/releases/download/v2.0/SevenFm_V2.exe
 
 ⚠️ Nota para usuarios:
 Al ser una aplicación Indie y de código abierto sin una firma digital de pago, es normal que Windows SmartScreen muestre una advertencia azul la primera vez que abras la app.
